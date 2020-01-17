@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "test_deploy"
+    ],
+    "directoryPath": "./",
+    "clusteredDbApps": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "ODRiNWZiZGEwYjJlZjY2MzhjN2U0YWYwYWRiZjNiNjY4ZDBlNzVmMWZiNmVhNWE1Mzc4ZjRmOTdkMzFkOWY3MDQ5MzY1MDczMjM2ZTBhYzNlMzc3OTVkZjYzYjg5ZWMwMzQyNA==",
+    "dockerRepositoryName": "deveshtamhane",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "ingressDomain": "",
+    "monitoring": "no",
+    "istio": false
+  }
+}

@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: testdeploy
+  namespace: default
+  labels:
+    app: testdeploy
+spec:
+  selector:
+    app: testdeploy
+  ports:
+    - name: http
+      port: 8087

@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "microservice1"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "microservice",
+    "baseName": "testdeploy",
+    "packageName": "microservice1",
+    "packageFolder": "microservice1",
+    "serverPort": "8087",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2I1NWNiZmNkYTZjMzlkZjI2MTNjMTM0YTEzYTA2NGNjZjAxODVkMjE0ZWQwZDg4YTRmMGVmZDNiZGIwM2U1ZWUzNDNmNjYyY2YxMTkwMmNhZjE1NDAyYjE5MTZkYzU1Zjk0YjdjZGI1MjM4ZmRiZjQ2MDAyYWRjMTIyOWUyM2U=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
